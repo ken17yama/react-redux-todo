@@ -67,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # react-redux-todo
+
+## 参考サイト
+- [Redux の記述量多すぎなので、 Redux の公式ツールでとことん楽をする。 (Redux Toolkit)](https://qiita.com/Ouvill/items/a76e9cbce569d01f2931)<br>そのままじゃ動かないけど、GitHub見ながら何とか対応できた。
+- [Ouvill/redux-starter-kit-sample](https://github.com/Ouvill/redux-starter-kit-sample)<br>↑の参考にしたGitHub
